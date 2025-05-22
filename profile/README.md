@@ -48,7 +48,7 @@ From custom-built PCBs to smart ERP platforms — we don’t just digitize indus
 
 * VP of Hardware Engineering → leads electronics, embedded, mechanics, testing
 * VP of Software Engineering → leads platform, DevOps, QA, and support
-* VP of Security → handles all hardware, software, and infrastructure protection
+* VP of Security → handles all hardware security, cyber security, and infrastructure protection
 
 ### 📊 CCO-Driven Commercial Divisions
 
