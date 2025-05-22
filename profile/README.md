@@ -15,6 +15,7 @@ We integrate hardware, embedded systems, and software into one streamlined platf
 
 From custom-built PCBs to smart ERP platforms — we don’t just digitize industries, we engine
 
+
 ---
 
 ## 🧠 Our Philosophy
