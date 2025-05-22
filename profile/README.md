@@ -6,7 +6,6 @@ DAMEN is an engineering-driven company founded by builders — not by managers. 
 
 We believe in deep work, clear ownership, and minimum structure with maximum clarity.
 
----
 
 ## 👀 Our Vision
 
