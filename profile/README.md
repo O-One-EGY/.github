@@ -6,6 +6,10 @@ DAMEN is an engineering-driven company founded by builders — not by managers. 
 
 We believe in deep work, clear ownership, and minimum structure with maximum clarity.
 
+---
+
+## 👀 Our Vision
+
 DAMEN’s mission is to bring Industry 4.0 to Egypt by building affordable, powerful, and unified industrial systems.
 
 We integrate hardware, embedded systems, and software into one streamlined platform to help factories, logistics, and infrastructure companies operate smarter.
