@@ -24,7 +24,7 @@ From custom-built PCBs to smart ERP platforms — we don’t just digitize indus
 
 * All decisions are made by those closest to the code, hardware, or customer need.
 * No one manages full-time — everyone builds.
-* Every leader in DAMEN is a contributor, not just a coordinator.
+* Every leader in O-one is a contributor, not just a coordinator.
 
 ### ❌ No Traditional CEO
 
