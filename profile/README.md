@@ -1,15 +1,15 @@
-# DAMEN Operating Manifesto
+# O-one Operating Manifesto
 
 ## 🚀 Who We Are
 
-DAMEN is an engineering-driven company founded by builders — not by managers. Our structure is designed to empower engineers, eliminate unnecessary overhead, and keep product focus at the heart of everything we do.
+O-one is an engineering-driven company founded by builders — not by managers. Our structure is designed to empower engineers, eliminate unnecessary overhead, and keep product focus at the heart of everything we do.
 
 We believe in deep work, clear ownership, and minimum structure with maximum clarity.
 
 
 ## 👀 Our Vision
 
-DAMEN’s mission is to bring Industry 4.0 to Egypt by building affordable, powerful, and unified industrial systems.
+O-one’s mission is to bring Industry 4.0 to Egypt by building affordable, powerful, and unified industrial systems.
 
 We integrate hardware, embedded systems, and software into one streamlined platform to help factories, logistics, and infrastructure companies operate smarter.
 
@@ -28,7 +28,7 @@ From custom-built PCBs to smart ERP platforms — we don’t just digitize indus
 
 ### ❌ No Traditional CEO
 
-* DAMEN does not and will not have a CEO.
+* O-one does not and will not have a CEO.
 * We are led by a hybrid structure of technical and commercial co-founders.
 * Vision and direction are shared across engineering and commercial leadership.
 
