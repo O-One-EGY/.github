@@ -71,7 +71,7 @@ From custom-built PCBs to smart ERP platforms — we don’t just digitize indus
 
 ## ✊ Final Note
 
-DAMEN is not trying to look like a company.
+O-one is not trying to look like a company.
 We are here to build one — from the product up, not the org chart down.
 
 **We don’t do management. We do engineering.**
